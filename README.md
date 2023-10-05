@@ -12,22 +12,20 @@
   <img src="https://github-profile-trophy.vercel.app/?username=igorbarret0&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center"> 
-<a href="https://www.linkedin.com/in/igor-barreto-9a28a2224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+
  
  
  ### Main skills:
-Java
-MySql
-SpringBoot
-JUnit5
-Mockito
-JavaScript
+Java |
+MySql |
+SpringBoot |
+JUnit5 |
+Mockito |
+JavaScript |
 
 
 ### Studying in this moment:
-Cloud
+JavaScript
 
 
 
