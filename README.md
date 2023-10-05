@@ -21,7 +21,7 @@ MySql |
 SpringBoot |
 JUnit5 |
 Mockito |
-JavaScript |
+GIT
 
 
 ### Studying in this moment:
