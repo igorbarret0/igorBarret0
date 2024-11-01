@@ -2,7 +2,9 @@
 <h1>Hi There 👋, I'm <strong style="color: blue;">Igor</strong></h1>
 
 <p> Hi, I'm Igor, a Full Stack Developer from Brazil. I've been developing several Java Applications and solving technical Back End challenges, feel free to check it out. Besides programming, I enjoy music, movies, books, and games! </p>
-<p> 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorbarret0/) </p>
+
+ ### 📫 How to reach me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorbarret0/)
 
 <br>
 
