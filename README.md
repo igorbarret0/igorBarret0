@@ -1,8 +1,9 @@
-<img width = 100% src="https://capsule-render.vercel.app/api?type=waving&color=6a5acd&height=120&section=footer" />
 
-<h1> Hi There, I'm <strong>Igor</strong></h1>
+<h1>Hi There 👋, I'm <strong style="color: blue;">Igor</strong></h1>
 
 <p> Hi, I'm Igor, a Full Stack Developer from Brazil. I've been developing several Java Applications and solving technical Back End challenges, feel free to check it out. Besides programming, I enjoy music, movies, books, and games! </p>
+## 📫 How to reach me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorbarret0/)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=igorbarret0&show_icons=true&count_private=true&hide_border=true&title_color=3cb371&icon_color=ffa500&text_color=c9d1d9&bg_color=0d1117" alt="Igor Barreto github stats" /> 
@@ -30,5 +31,4 @@ Angular
 C++
 Clean Code
 
-<img width = 100% src="https://capsule-render.vercel.app/api?type=waving&color=6a5acd&height=120&section=footer" />
 
