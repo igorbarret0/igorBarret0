@@ -18,20 +18,29 @@
 </p>
  
  ### Main skills:
-[![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) |
-[![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)](https://www.mysql.com/) |
-[![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)](https://www.mongodb.com/) |
-[![Spring](https://img.shields.io/badge/Spring-green?logo=spring&logoColor=white)](https://spring.io/) |
-[![JUnit5](https://img.shields.io/badge/JUnit5-red?logo=junit5&logoColor=white)](https://junit.org/junit5/) |
-[![Mockito](https://img.shields.io/badge/Mockito-lightgreen?logo=mockito&logoColor=white)](https://site.mockito.org/) |
-[![GIT](https://img.shields.io/badge/GIT-orange?logo=git&logoColor=white)](https://git-scm.com/) |
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/) |
-[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
-[![Angular](https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white)](https://angular.io/)
 
-### Studying in this moment:
-[![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/) |
-[![Clean Code](https://img.shields.io/badge/Clean%20Code-000000?logo=book&logoColor=white)](https://www.oreilly.com/library/view/clean-code-a/9780136083239/)
+<h1> Stack </h1>
+
+### Web:
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)](https://spring.io/)
+[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
+
+### Cloud:
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5?logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+
+### Data:
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)](https://numpy.org/)
+
+
 
 
 
