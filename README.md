@@ -1,7 +1,10 @@
 
 <h1>Hi There 👋, I'm <strong style="color: blue;">Igor</strong></h1>
 
-<p> Hi, I'm Igor, a Full Stack Developer from Brazil. I've been developing several Java Applications and solving technical Back End challenges, feel free to check it out. Besides programming, I enjoy music, movies, books, and games! </p>
+<p> Hi, I'm Igor, Be Welcome! </p>
+<p>
+I am a Full-Stack Software Engineer focused on Web Development, working with Spring Boot and Node.js on the backend and React on the frontend. I am also deeply interested in Artificial Intelligence, with a focus on data analysis and machine learning using Python, especially for building and understanding large language models.
+</p>
 
  ### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorbarret0/)
